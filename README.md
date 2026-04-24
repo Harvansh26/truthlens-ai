@@ -8,13 +8,9 @@
 
 &#x20; <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 
-&#x20; <img src="https://img.shields.io/github/stars/YOUR\_USERNAME/truthlens-ai?style=for-the-badge" />
+&#x20; <img src="https://img.shields.io/github/stars/Harvansh26/truthlens-ai?style=for-the-badge" />
 
 </p>
-
-
-
-\---
 
 
 
@@ -28,10 +24,6 @@
 
 
 
-\---
-
-
-
 <p align="center">
 
 &#x20; <img src="./screenshots/demo.gif" width="850"/>
@@ -40,23 +32,13 @@
 
 
 
-\---
-
-
-
 <p><b>Overview</b></p>
 
 
 
-TruthLens AI is a full-stack intelligent platform that detects scams and suspicious content using Machine Learning and rule-based analysis.
-
-
+TruthLens AI is a full-stack intelligent platform that detects scams and suspicious content using Machine Learning and rule-based analysis.  
 
 It helps identify fake job offers, phishing emails, and fraud messages with real-time AI predictions.
-
-
-
-\---
 
 
 
@@ -68,9 +50,9 @@ It helps identify fake job offers, phishing emails, and fraud messages with real
 
 • Risk Score + AI Probability + Confidence  
 
-• Machine Learning model (TF-IDF + Logistic Regression)  
+• Machine Learning (TF-IDF + Logistic Regression)  
 
-• Keyword-based fraud detection engine  
+• Keyword-based fraud detection  
 
 • Highlight suspicious words  
 
@@ -82,19 +64,11 @@ It helps identify fake job offers, phishing emails, and fraud messages with real
 
 
 
-\---
-
-
-
 <p><b>System Flow</b></p>
 
 
 
 User Input → Text Processing → TF-IDF → ML Model → Prediction → Keyword Engine → Final Verdict  
-
-
-
-\---
 
 
 
@@ -111,10 +85,6 @@ React (Vite), Framer Motion, Circular Progressbar, jsPDF
 Backend  
 
 Flask, Scikit-learn, Pandas, Joblib  
-
-
-
-\---
 
 
 
@@ -135,10 +105,6 @@ truthlens-ai/
 ├── model/  
 
 └── README.md  
-
-
-
-\---
 
 
 
@@ -170,10 +136,6 @@ History
 
 
 
-\---
-
-
-
 <p><b>Test Inputs</b></p>
 
 
@@ -193,10 +155,6 @@ You are shortlisted. Complete verification to proceed.
 Safe  
 
 No payment is required during recruitment.
-
-
-
-\---
 
 
 
@@ -226,19 +184,11 @@ npm run dev
 
 
 
-\---
-
-
-
 <p><b>Resume Line</b></p>
 
 
 
 Built TruthLens AI, a full-stack scam detection platform using React, Flask, and Machine Learning, enabling real-time risk scoring, explainable AI predictions, PDF reporting, and history tracking.
-
-
-
-\---
 
 
 
@@ -249,10 +199,6 @@ Built TruthLens AI, a full-stack scam detection platform using React, Flask, and
 Harvansh Singh  
 
 MCA | Full Stack | AI/ML | DevOps  
-
-
-
-\---
 
 
 
