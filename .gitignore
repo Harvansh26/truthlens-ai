@@ -6,3 +6,9 @@ ml-backend/model/*.pkl
 .env
 frontend/.env
 .DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+temp_uploads/
+*.pkl
